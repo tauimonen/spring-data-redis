@@ -7,8 +7,6 @@
 - Jedis
 - Lombok
 
-Sure, based on the provided code for the `ProductController` class, here's a description for the REST API:
-
 ### Product API
 
 Welcome to the Product API! This API allows you to perform CRUD (Create, Read, Update, Delete) operations on product entities.
